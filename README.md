@@ -21,3 +21,5 @@ To run the task = use *npx hardhat* to see the list of all the available tasks
 
 **To Run the TEST**
 run *npx hardhat test*
+
+Thanks you
