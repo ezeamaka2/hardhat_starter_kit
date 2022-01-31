@@ -35,7 +35,7 @@ hardhat run --network ropsten scripts/deploy.js
 
 Then, copy the deployment address and paste it in to replace `DEPLOYED_CONTRACT_ADDRESS` in this command:
 
-
+If you have a contructor that takes in a parameter, you need to add it. For example, in the case, the constructor takes in a string
 ```shell
 npx hardhat verify --network ropsten DEPLOYED_CONTRACT_ADDRESS "Hello, Hardhat!"
 ```
