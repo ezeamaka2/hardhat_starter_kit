@@ -4,7 +4,7 @@ This is a **Hardhat Starter Kit**
 
 to run the code - simply clone this repo to your local machine
 
-1. In the .env file, replace the private  with your private key and remote kovan network (I used Alchemy, you can also use infura)
+1. In the .env file, replace the private key with your private key and remote kovan network (I used Alchemy, you can also use infura)
 2. Open the package.json file and install all the dependencies one by one
 3. run *np hardhat compile* to compile the code
 4. run *npx hardhat run --network kovan script/scripts.js* to deploy the code. You can copy the deployed address to [Kovan Etherscan](https://kovan.etherscan.io) to see the transaction
