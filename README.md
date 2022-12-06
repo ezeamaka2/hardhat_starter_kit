@@ -1,6 +1,6 @@
 # hardhat_starter_kit
 
-This is a **Hardhat Starter Kit**
+**Hardhat Starter Kit**
 
 to run the code - simply clone this repo to your local machine
 
