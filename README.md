@@ -2,7 +2,7 @@
 
 **Hardhat Starter Kit**
 
-to run the code - simply clone this repo to your local machine
+to run the code - clone this repo to your local machine
 
 1. In the .env file, replace the private key with your private key and remote kovan network (I used Alchemy, you can also use infura)
 2. Open the package.json file and install all the dependencies one by one
